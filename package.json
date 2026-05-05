@@ -1,0 +1,13 @@
+{
+  "name": "courtside-faves-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lightweight Vercel API that mirrors the Courtside Faves shop as JSON for use in Framer.",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel deploy --prod"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
